@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+Sistema desenvolvido para a atividade da unidade 2 do curso.
 
 ## Getting Started
 
